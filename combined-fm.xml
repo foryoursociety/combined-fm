@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tv source-info-name="societv">
+  <channel id="KRCL">
+    <display-name>KRCL</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="KUER">
+    <display-name>KUER</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="KXRK">
+    <display-name>X96</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="KSRP">
+    <display-name>The Arrow</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="erf">
+    <display-name>Live Deep Space</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="c2crad">
+    <display-name>Coast to Coast</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="lovelinerad">
+    <display-name>Loveline</display-name>
+    <icon src=""></icon>
+  </channel>
+  <programme start="20211227220000 +0000" stop="20211227230000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227230000 +0000" stop="20211228000000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228010000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228010000 +0000" stop="20211228020000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228030000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228030000 +0000" stop="20211228040000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228050000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228050000 +0000" stop="20211228060000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228070000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228070000 +0000" stop="20211228080000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228090000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228090000 +0000" stop="20211228100000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228110000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228110000 +0000" stop="20211228120000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228130000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228130000 +0000" stop="20211228140000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228150000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228150000 +0000" stop="20211228160000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228170000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228170000 +0000" stop="20211228180000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228190000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228190000 +0000" stop="20211228200000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228210000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228210000 +0000" stop="20211228220000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211228230000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228230000 +0000" stop="20211229000000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229010000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229010000 +0000" stop="20211229020000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229030000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229030000 +0000" stop="20211229040000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229050000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229050000 +0000" stop="20211229060000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229070000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229070000 +0000" stop="20211229080000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229090000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229090000 +0000" stop="20211229100000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229110000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229110000 +0000" stop="20211229120000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229130000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229130000 +0000" stop="20211229140000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229150000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229150000 +0000" stop="20211229160000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229170000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229170000 +0000" stop="20211229180000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229190000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229190000 +0000" stop="20211229200000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229210000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229210000 +0000" stop="20211229220000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211229230000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229230000 +0000" stop="20211230000000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230010000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230010000 +0000" stop="20211230020000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230030000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230030000 +0000" stop="20211230040000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230050000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230050000 +0000" stop="20211230060000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230070000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230070000 +0000" stop="20211230080000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230090000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230090000 +0000" stop="20211230100000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230110000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230110000 +0000" stop="20211230120000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230130000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230130000 +0000" stop="20211230140000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230150000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230150000 +0000" stop="20211230160000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230170000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230170000 +0000" stop="20211230180000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230190000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230190000 +0000" stop="20211230200000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230210000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230210000 +0000" stop="20211230220000 +0000" channel="KRCL">
+    <title>KRCL 90.9 FM - Community Radio</title>
+    <desc>Community connection and music disovery on KRCL, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211228000000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228020000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228040000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228060000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228100000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228120000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228140000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228160000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228180000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228200000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211229000000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229020000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229040000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229060000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229100000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229120000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229140000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229160000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229180000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229200000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230000000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230020000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230040000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230060000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230100000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230120000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230140000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230160000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230180000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230200000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="KUER">
+    <title>KUER 90.1 FM - NPR Utah</title>
+    <desc>National Public Radio news and information, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211228000000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228020000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228040000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228060000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228100000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228120000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228140000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228160000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228180000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228200000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211229000000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229020000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229040000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229060000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229100000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229120000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229140000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229160000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229180000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229200000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230000000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230020000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230040000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230060000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230100000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230120000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230140000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230160000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230180000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230200000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="KXRK">
+    <title>KXRK 96.3 FM - X96</title>
+    <desc>From Radio from Hell in the mornings to whatever crap we play for the rest of the day, it's X96, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211228000000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228020000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228040000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228060000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228100000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228120000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228140000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228160000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228180000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228200000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211229000000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229020000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229040000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229060000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229100000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229120000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229140000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229160000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229180000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229200000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230000000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230020000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230040000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230060000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230100000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230120000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230140000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230160000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230180000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230200000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="KSRP">
+    <title>Arrow 103.5 - Utah's Classic Rock</title>
+    <desc>Utah's Classic Rock station, KRSP FM Salt Lake City, The Arrow 103.5, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211228000000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228020000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228040000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228060000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228100000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228120000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228140000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228160000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228180000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228200000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211229000000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229020000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229040000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229060000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229100000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229120000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229140000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229160000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229180000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229200000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230000000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230020000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230040000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230060000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230100000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230120000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230140000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230160000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230180000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230200000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="erf">
+    <title>Live from the Internatonal Space Station</title>
+    <desc>A view of space captured and transmitted live from outside the International Space Station, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211228000000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228020000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228040000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228060000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228100000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228120000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228140000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228160000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228180000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228200000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211229000000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229020000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229040000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229060000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229100000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229120000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229140000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229160000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229180000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229200000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230000000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230020000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230040000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230060000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230100000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230120000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230140000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230160000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230180000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230200000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="c2crad">
+    <title>Coast to Coast AM with Art Bell</title>
+    <desc>Psychics, phrophets, aliens, angels, afterlife, government conspiracies, ghosts, global warming and more, oh my! It's classic broadcasts of the ultimate radio classic: Coast to Coast AM with Art Bell, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211228000000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228020000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228020000 +0000" stop="20211228040000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228040000 +0000" stop="20211228060000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228100000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228100000 +0000" stop="20211228120000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228120000 +0000" stop="20211228140000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228140000 +0000" stop="20211228160000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228180000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228180000 +0000" stop="20211228200000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211229000000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229020000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229020000 +0000" stop="20211229040000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229040000 +0000" stop="20211229060000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229100000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229100000 +0000" stop="20211229120000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229120000 +0000" stop="20211229140000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229160000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229180000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229180000 +0000" stop="20211229200000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230000000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230020000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230020000 +0000" stop="20211230040000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230040000 +0000" stop="20211230060000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230100000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230100000 +0000" stop="20211230120000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230120000 +0000" stop="20211230140000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230160000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230180000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230180000 +0000" stop="20211230200000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="lovelinerad">
+    <title>Loveline with Dr. Drew & Adam Carolla</title>
+    <desc>Classic broadcasts from the Loveline archive, with Dr. Drew and Adam Carolla, broadcasting live 24/7 on societv.</desc>
+  </programme>
+</tv>
