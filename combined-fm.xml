@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<tv source-info-name="societv">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
   <channel id="KRCL">
     <display-name>KRCL</display-name>
     <icon src=""></icon>
