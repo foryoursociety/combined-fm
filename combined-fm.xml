@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<tv generator-info-name="none" generator-info-url="none">
   <channel id="KRCL">
     <display-name>KRCL</display-name>
     <icon src=""></icon>
